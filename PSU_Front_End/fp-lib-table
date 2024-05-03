@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "psu_front_end")(type "KiCad")(uri "${KIPRJMOD}/Lib/psu_front_end.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/Jorge/Documents/GitHub/PSU_Front_End/footprints.pretty")(options "")(descr ""))
+)
